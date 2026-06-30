@@ -90,6 +90,6 @@ I understand that becoming an excellent systems biologist will take years of con
 
 I am committed to studying consistently, sharing my work openly, embracing new challenges, and never stopping my curiosity.
 
-This repository is more than a collection of projects—it is a record of my growth as a scientist.
+This repository is more than a collection of projects, it is a record of my growth as a scientist.
 
 
